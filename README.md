@@ -1,6 +1,6 @@
 # S3 Upload App (Serverless File Manager)
 
-A full-stack serverless file upload system using **AWS Lambda, API Gateway, and S3**, with a React frontend for uploading, listing, and deleting files.
+A full-stack serverless file upload system using **AWS Lambda, API Gateway, and S3**, with React frontend for uploading, listing, and deleting files.
 
 ---
 
