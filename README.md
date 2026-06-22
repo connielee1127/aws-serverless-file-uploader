@@ -81,7 +81,3 @@ Built by Connie Lee
 ---
 
 
-
-
-
-## 🏗️ Architecture
