@@ -52,7 +52,7 @@ AWS S3 Bucket
 ## Backend Setup
 
 ```bash
-cd backend
+cd s3-upload-app-backend
 npm install
 ``` 
 
@@ -60,9 +60,11 @@ npm install
 
 ## Frontend Setup
 
-cd frontend  
+```bash
+cd s3-upload-app-frontend  
 npm install  
-npm start  
+npm start
+```
 
 ---
 
