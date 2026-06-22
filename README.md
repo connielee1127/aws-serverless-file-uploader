@@ -36,18 +36,6 @@ A full-stack serverless file upload system using **AWS Lambda, API Gateway, and 
   
 ---
 
-## Architecture
-
-React Frontend
-↓
-API Gateway (HTTP API)
-↓
-AWS Lambda (Node.js)
-↓
-AWS S3 Bucket
-
----
-
 
 ## Backend Setup
 
@@ -90,6 +78,7 @@ npm start
 
 Built by Connie Lee
 
+---
 
 
 
